@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F044DJRU8V9",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F044SAM2ZSM",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F044ANNCF45",
+                "mode": "hidden_by_limit"
+            },
+            {
+                "id": "F044G5B0S4C",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U040HRKU10R",
+        "ts": "1664438838.495469",
+        "client_msg_id": "802c045a-cedc-4e94-a412-7d79580fd23e"
+    }
+]

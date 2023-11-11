@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "d1700e3b-b914-4259-88c8-5ca4e307708b",
+        "type": "message",
+        "text": "<@U040HRKU10R> \n\nBratee, ako mi možeš samo danas onaj dokument proslijediti, gdje su bugovi, da malo isčitam? :smile:",
+        "user": "U040BRE6PGC",
+        "ts": "1665997546.691959",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f2Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040HRKU10R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nBratee, ako mi možeš samo danas onaj dokument proslijediti, gdje su bugovi, da malo isčitam? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e0f51025-b944-4d0a-9a8e-1a995847c74a",
+        "type": "message",
+        "text": "Gdje su bugovi navedeni hahah... :smile:",
+        "user": "U040BRE6PGC",
+        "ts": "1665997554.270369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZxU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gdje su bugovi navedeni hahah... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U040BRE6PGC> Evo ga :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "F0475BK6W73",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U040HRKU10R",
+        "display_as_bot": false,
+        "ts": "1665997656.121219",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040BRE6PGC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Evo ga "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bd8fcb6f-c246-4f99-8530-a940ea781150"
+    }
+]

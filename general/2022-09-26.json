@@ -1,0 +1,429 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F043SDGDSSZ",
+                "mode": "hidden_by_limit"
+            }
+        ],
+        "upload": false,
+        "user": "U040BRE6PGC",
+        "display_as_bot": false,
+        "ts": "1664182291.022719",
+        "client_msg_id": "131cef05-8fee-440d-aaeb-fd07b58a9240"
+    },
+    {
+        "client_msg_id": "a006e699-09cf-4e66-9ced-e61432e8cd3b",
+        "type": "message",
+        "text": "<@U040HRKU10R> Samo mi brate proslijedi link za sastanak... :smile:",
+        "user": "U040BRE6PGC",
+        "ts": "1664182317.778799",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Us=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U040HRKU10R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Samo mi brate proslijedi link za sastanak... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ffc70d34-9719-4614-9d69-421d56e3395d",
+        "type": "message",
+        "text": "Oooj ceekaj",
+        "user": "U040HRKU10R",
+        "ts": "1664183132.790389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=kGG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oooj ceekaj"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5eccdc9d-937e-471e-a597-f4abf3c2ed46",
+        "type": "message",
+        "text": "Zab smoo za sastanaak",
+        "user": "U040HRKU10R",
+        "ts": "1664183136.189229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EqekV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zab smoo za sastanaak"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1c431fc2-13cf-4fed-b703-3f6cc5318646",
+        "type": "message",
+        "text": "Hahahahah, no worries, vjerujem da ste se fousirali... :smile:",
+        "user": "U040BRE6PGC",
+        "ts": "1664183188.848859",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ynD4p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahahahah, no worries, vjerujem da ste se fousirali... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bdbc2a68-694c-4c09-af23-6572ffbc9ac9",
+        "type": "message",
+        "text": "Ee brate, izvini. Imamo sad neki sastanak u 11 i 15 sa potencijalnim klije tom. Pa se javimo kad zavrsimo, vjrovatno za nkeih pola sata? Hocel tiodgpvarat?",
+        "user": "U040HRKU10R",
+        "ts": "1664183277.824049",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2i6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ee brate, izvini. Imamo sad neki sastanak u 11 i 15 sa potencijalnim klije tom. Pa se javimo kad zavrsimo, vjrovatno za nkeih pola sata? Hocel tiodgpvarat?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45a3cc50-b95f-4bd9-89ad-f19ac9b01454",
+        "type": "message",
+        "text": "Možeee, vidimo se tad... :slightly_smiling_face:",
+        "user": "U040BRE6PGC",
+        "ts": "1664183300.626809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QE5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Možeee, vidimo se tad... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "623b5917-3ab7-440e-ae16-957a54f47c43",
+        "type": "message",
+        "text": "Evo Chris ti salje link za meeting",
+        "user": "U040HRKU10R",
+        "ts": "1664185294.431169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PRN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Evo Chris ti salje link za meeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "33b3208c-c31e-4f90-b087-ce163b3a2d84",
+        "type": "message",
+        "text": "Check your email <@U040BRE6PGC> :D",
+        "user": "U040HRKU10R",
+        "ts": "1664185305.412359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WKA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Check your email "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U040BRE6PGC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " :D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ca7e83df-a86d-40f4-a492-09044ba149d5",
+        "type": "message",
+        "text": "Upadaaam... :smile:",
+        "user": "U040BRE6PGC",
+        "ts": "1664185367.550099",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TG5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Upadaaam... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "76d5f364-c5e4-4807-981a-84cc53ff09b2",
+        "type": "message",
+        "text": "Okaay",
+        "user": "U040HRKU10R",
+        "ts": "1664185381.252399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q6LXt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okaay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "client_msg_id": "4c3513b6-d0d9-4d98-a012-0156e894a569",
+        "type": "message",
+        "text": "Kako napreduje? :smile:",
+        "user": "U040BRE6PGC",
+        "ts": "1665754986.570299",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "01SG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Kako napreduje? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "508fbdf5-6fb7-4281-abaf-c9ed1bb4370f",
+        "type": "message",
+        "text": "Ti si dobro ono naso za dokumentaciju, ona null. Samo nije bilo jasno zasto je options bilo. Uglavnom rijesili smo too",
+        "user": "U040HRKU10R",
+        "ts": "1665756862.333749",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cndbK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ti si dobro ono naso za dokumentaciju, ona null. Samo nije bilo jasno zasto je options bilo. Uglavnom rijesili smo too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c97fd5a5-0610-4afe-b75d-5abb57c57d44",
+        "type": "message",
+        "text": "I jos 4-5 bugova sam rijesioo",
+        "user": "U040HRKU10R",
+        "ts": "1665756882.998349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGm0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I jos 4-5 bugova sam rijesioo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e5360af6-b09c-42e5-b7ce-2dd66e4689c9",
+        "type": "message",
+        "text": "Interesantaan dan je bio bas haha",
+        "user": "U040HRKU10R",
+        "ts": "1665756890.747109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfQR3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesantaan dan je bio bas haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4e0e2f1c-5790-437b-866c-262fa5ca64da",
+        "type": "message",
+        "text": "Poslije sljedece sedmice setupovat cemo na svojim laptopima pa cemo lokalno derat",
+        "user": "U040HRKU10R",
+        "ts": "1665756932.788789",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3cU8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Poslije sljedece sedmice setupovat cemo na svojim laptopima pa cemo lokalno derat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "da8093759d62",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-08-29\/3990677799895_da8093759d62d992c399_72.png",
+            "first_name": "Jasmin",
+            "real_name": "Jasmin Mustafic",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "mustaficjasmin7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "23cce405-7d6b-484d-b9bb-965ea5a07aa1",
+        "type": "message",
+        "text": "Ekstricaaa... :smile:",
+        "user": "U040BRE6PGC",
+        "ts": "1665759207.741619",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CzmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ekstricaaa... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d898e0a-becd-4420-bb99-828b19a91e9e",
+        "type": "message",
+        "text": "Bio je skroz dobar deep dive, dobar je ovo metod za učiti codebase... :smile:",
+        "user": "U040BRE6PGC",
+        "ts": "1665759258.974419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yE0Wk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bio je skroz dobar deep dive, dobar je ovo metod za učiti codebase... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile",
+                                "unicode": "1f604"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a162a2fb-60dd-473c-b779-c6612241d9a8",
+        "type": "message",
+        "text": "Odmorite za vikend, pa se vidimoo... :relaxed:",
+        "user": "U040BRE6PGC",
+        "ts": "1665759328.882079",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/7jW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Odmorite za vikend, pa se vidimoo... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed",
+                                "unicode": "263a-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

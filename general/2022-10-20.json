@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "474e9550-5fd8-4cba-9325-c6193bb1967c",
+        "type": "message",
+        "text": "<https:\/\/www.udemy.com\/course\/microservices-with-node-js-and-react\/>",
+        "user": "U040BRE6PGC",
+        "ts": "1666271047.468279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W1LQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.udemy.com\/course\/microservices-with-node-js-and-react\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.udemy.com\/course\/microservices-with-node-js-and-react\/",
+                "image_url": "https:\/\/img-c.udemycdn.com\/course\/480x270\/2887266_c696_5.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 16750,
+                "service_icon": "https:\/\/www.udemy.com\/staticx\/udemy\/images\/v7\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.udemy.com\/course\/microservices-with-node-js-and-react\/",
+                "fallback": "Udemy: Microservices with Node JS and React",
+                "text": "Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes",
+                "title": "Microservices with Node JS and React",
+                "title_link": "https:\/\/www.udemy.com\/course\/microservices-with-node-js-and-react\/",
+                "service_name": "Udemy"
+            }
+        ]
+    }
+]

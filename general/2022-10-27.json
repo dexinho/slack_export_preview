@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "d341fa4f-baea-46f6-b190-f111fc019c72",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/@dave_irvine\/postcss-with-css-modules-and-react-c5ca7ef0daa4>",
+        "user": "U040BRE6PGC",
+        "ts": "1666883888.941389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ztn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/@dave_irvine\/postcss-with-css-modules-and-react-c5ca7ef0daa4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/medium.com\/@dave_irvine\/postcss-with-css-modules-and-react-c5ca7ef0daa4",
+                "ts": 1528976314,
+                "image_url": "https:\/\/miro.medium.com\/max\/1000\/1*EDkUlv_raGO0G0WsOhlbPA.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 24041,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@dave_irvine\/postcss-with-css-modules-and-react-c5ca7ef0daa4",
+                "fallback": "Medium: PostCSS with CSS Modules and React",
+                "text": "Quick Intro",
+                "title": "PostCSS with CSS Modules and React",
+                "title_link": "https:\/\/medium.com\/@dave_irvine\/postcss-with-css-modules-and-react-c5ca7ef0daa4",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "4 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5cc6accb-328f-4708-97d6-23e6fa74ac06",
+        "type": "message",
+        "text": "<https:\/\/flowbite.com\/>",
+        "user": "U040BRE6PGC",
+        "ts": "1666886277.723319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/flowbite.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "T03V4KXKLNT",
+        "user_team": "T03V4KXKLNT",
+        "source_team": "T03V4KXKLNT",
+        "user_profile": {
+            "avatar_hash": "g7cf6ab42d6d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7cf6ab42d6d8fb36daed42e44e0bffcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Ismail",
+            "real_name": "Ismail",
+            "display_name": "",
+            "team": "T03V4KXKLNT",
+            "name": "brkicismail",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]
