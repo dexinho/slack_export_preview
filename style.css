@@ -9,8 +9,59 @@
 }
 
 #upload-download-div {
-    border: 2px solid red;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#files-input {
+    font-size: 1.1rem;
+    background-color: green;
+    padding: 1rem;
+}
+
+#download-csv-button {
+    font-size: 1.1rem;
+    background-color: rgb(88, 151, 151);
+    color: brown;
+    padding: 1rem;
+}
+
+#preview-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.preview-slot {
+    display: grid;
+    grid-template-columns: 0.1fr 0.8fr;
+    width: 100%;
+}
+
+.icon-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-user {
+    font-size: 3rem;
+}
+
+.date-span {
+    color: rgb(117, 84, 51);
+}
+
+.user-name-span {
+    font-weight: bold;
+}
+
+.user-name-date-div {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
 }
