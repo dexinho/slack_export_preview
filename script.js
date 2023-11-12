@@ -6,10 +6,15 @@ let FILES_COUNTER = 0;
 const USERS_DATA = [];
 const USER_ICON_COLORS = {};
 
-filesInput.addEventListener("change", (e) => {
-    const files = e.target.files;
+const resetData = () => {
+    USERS_DATA.length = 0;
     FILES_COUNTER = 0;
     FINAL_CSV = "Date and Time; Message sender; Message content;\n";
+};
+
+filesInput.addEventListener("change", (e) => {
+    const files = e.target.files;
+    resetData();
 
     [...files].forEach((file) => {
         const reader = new FileReader();
@@ -39,9 +44,9 @@ filesInput.addEventListener("change", (e) => {
 
                 if (!USER_ICON_COLORS[senderName])
                     USER_ICON_COLORS[senderName] = `rgb(${Math.floor(
-                        Math.random() * 200 + 50
-                    )}, ${Math.floor(Math.random() * 200 + 50)}, ${Math.floor(
-                        Math.random() * 200 + 50
+                        Math.random() * 100 + 100
+                    )}, ${Math.floor(Math.random() * 100 + 100)}, ${Math.floor(
+                        Math.random() * 100 + 100
                     )})`;
 
                 USERS_DATA.push(data);
@@ -74,6 +79,7 @@ downloadCsvButton.addEventListener("click", downloadCSV);
 const previewDiv = document.querySelector("#preview-div");
 
 const previewMessages = () => {
+    previewDiv.style.display = "flex";
     cleanPreviewMessages();
 
     USERS_DATA.forEach((data) => {
