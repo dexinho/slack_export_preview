@@ -3,3 +3,14 @@
     padding: 0;
     margin: 0;
 }
+
+#download-csv-button {
+    display: none;
+}
+
+#upload-download-div {
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
