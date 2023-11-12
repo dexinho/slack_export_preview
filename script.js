@@ -25,32 +25,35 @@ filesInput.addEventListener("change", (e) => {
 
             for (let i = 0; i < contents.length; i++) {
                 const content = contents[i];
-                const date = new Date(content.ts * 1000).toLocaleDateString(
-                    "bs",
-                    {
-                        hour: "numeric",
-                        minute: "numeric",
-                        second: "numeric",
-                    }
-                );
-                const senderName = content.user.replace(/[\r\n]/g, "");
+
                 const messageContent = content.text.replace(/[\r\n]/g, "");
 
-                const data = {
-                    date,
-                    senderName,
-                    messageContent,
-                };
+                if (messageContent) {
+                    const senderName = content.user.replace(/[\r\n]/g, "");
+                    const date = new Date(content.ts * 1000).toLocaleDateString(
+                        "bs",
+                        {
+                            hour: "numeric",
+                            minute: "numeric",
+                            second: "numeric",
+                        }
+                    );
+                    const data = {
+                        date,
+                        senderName,
+                        messageContent,
+                    };
 
-                if (!USER_ICON_COLORS[senderName])
-                    USER_ICON_COLORS[senderName] = `rgb(${Math.floor(
-                        Math.random() * 100 + 100
-                    )}, ${Math.floor(Math.random() * 100 + 100)}, ${Math.floor(
-                        Math.random() * 100 + 100
-                    )})`;
+                    if (!USER_ICON_COLORS[senderName])
+                        USER_ICON_COLORS[senderName] = `rgb(${Math.floor(
+                            Math.random() * 100 + 100
+                        )}, ${Math.floor(
+                            Math.random() * 100 + 100
+                        )}, ${Math.floor(Math.random() * 100 + 100)})`;
 
-                USERS_DATA.push(data);
-                writeContent(data);
+                    USERS_DATA.push(data);
+                    writeContent(data);
+                }
             }
 
             if (FILES_COUNTER === files.length) {
