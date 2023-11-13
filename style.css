@@ -112,7 +112,7 @@ main > * {
     gap: 1rem;
     padding: 1rem;
     width: 600px;
-    min-height: 100px;
+    min-height: 0;
     max-height: 400px;
     overflow-y: scroll;
 }

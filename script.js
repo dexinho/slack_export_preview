@@ -4,7 +4,6 @@ const downloadCsvButton = document.querySelector("#download-csv-button");
 let FINAL_CSV = "";
 let FILES_COUNTER = 0;
 const USERS_DATA = [];
-const USER_ICON_COLORS = {};
 
 const resetData = () => {
   USERS_DATA.length = 0;
@@ -13,10 +12,10 @@ const resetData = () => {
 };
 
 filesInput.addEventListener("change", (e) => {
-  const files = e.target.files;
+  const slackFiles = e.target.files;
   resetData();
 
-  [...files].forEach((file) => {
+  [...slackFiles].forEach((file) => {
     const reader = new FileReader();
     reader.readAsText(file);
     reader.onload = () => {
@@ -47,20 +46,15 @@ filesInput.addEventListener("change", (e) => {
           icon,
         };
 
-        if (!USER_ICON_COLORS[senderName])
-          USER_ICON_COLORS[senderName] = `rgb(${Math.floor(
-            Math.random() * 100 + 100
-          )}, ${Math.floor(Math.random() * 100 + 100)}, ${Math.floor(
-            Math.random() * 100 + 100
-          )})`;
-
         USERS_DATA.push(data);
         writeContent({date, senderName, messageContent});
       }
 
-      if (FILES_COUNTER === files.length) {
+      if (FILES_COUNTER === slackFiles.length && USERS_DATA.length > 0) {
         downloadCsvButton.style.display = "block";
         previewMessages();
+      } else if (FILES_COUNTER === slackFiles.length && USERS_DATA.length === 0) {
+        alert('There is nothing to read in the file!')
       }
     };
   });
@@ -119,8 +113,6 @@ const previewMessages = () => {
     userNameSpan.textContent = data.senderName;
     dateSpan.textContent = data.date;
     userMessage.textContent = data.messageContent;
-
-    console.log(data.icon)
   });
 };
 
